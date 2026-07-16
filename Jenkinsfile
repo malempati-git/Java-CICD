@@ -9,7 +9,7 @@ pipeline {
 
         stage('Clean Workspace') {
             steps {
-                cleanWs()  // Clean the workspace before starting the build
+                cleanWs()  // Clean the workspace before starting the builddjhdjdjkd
             }
         }
 
